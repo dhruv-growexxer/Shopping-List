@@ -10,7 +10,7 @@ Steps to install
 
 1. Make sure you've flutter (https://docs.flutter.dev/get-started/install)
 2. Clone this repo.
-3. Run flutter pub get to install dependencies.
+3. Run "flutter pub get" to install dependencies.
 4. Run emulator and you're ready to go.
 
 A few resources to get you started if this is your first Flutter project:
